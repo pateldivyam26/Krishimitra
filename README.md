@@ -1,5 +1,5 @@
-# Krishimitra
-## Overview
+# KRISHIMITRA
+## Overview :
 
 Project was a part of Silicon Lab Social Entrepreneurship Challenge.
 * Implemented End to End IoT based solution for precision farming
@@ -59,4 +59,5 @@ SendDataIoT.ino -> Code uploaded to NodeMCU micro-controller fot IoT device.
 	4. Change the path_to_models in Interface.py to Models_statistical folder.
 
 To Run our Interface that is already deployed on Streamlit cloud server, open the link given below.
+
 PROTOTYPE INTERFACE LINK FOR THE FARMERS: https://share.streamlit.io/hp-sl/hp_sl_t13/main/InterIIT/Interface.py
